@@ -8,6 +8,7 @@ using System.Windows.Forms;
 
 namespace SchetsEditor
 {
+    //hi
     public abstract class GraphicalObject
     {
         protected Color kwast;
