@@ -1,0 +1,8 @@
+C:\Users\siemv\source\repos\paintpract\bin\Debug\SchetsEditor.exe
+C:\Users\siemv\source\repos\paintpract\bin\Debug\SchetsEditor.pdb
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor.Properties.Resources.resources
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor2008.csproj.GenerateResource.Cache
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor2008.csproj.CoreCompileInputs.cache
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor.exe
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor.pdb
+C:\Users\siemv\source\repos\paintpract\obj\Debug\SchetsEditor2008.csprojResolveAssemblyReference.cache

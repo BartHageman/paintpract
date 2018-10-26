@@ -7,7 +7,7 @@ namespace SchetsEditor
     public class Schets
     {
         private Bitmap bitmap;
-        protected List<StartpuntTool> elelist = new List<StartpuntTool>();
+        
         public Schets()
         {
             bitmap = new Bitmap(1, 1);
