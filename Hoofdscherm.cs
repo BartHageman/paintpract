@@ -7,7 +7,6 @@ namespace SchetsEditor
     public class Hoofdscherm : Form
     {
         MenuStrip menuStrip;
-        //hoi
         public Hoofdscherm()
         {   this.ClientSize = new Size(800, 600);
             menuStrip = new MenuStrip();

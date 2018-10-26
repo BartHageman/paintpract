@@ -49,6 +49,7 @@ namespace SchetsEditor
                                     , new VolRechthoekTool()
                                     , new TekstTool()
                                     , new GumTool()
+                                    , new CirkelTool(), 
                                     };
             String[] deKleuren = { "Black", "Red", "Green", "Blue"
                                  , "Yellow", "Magenta", "Cyan" 
@@ -101,7 +102,7 @@ namespace SchetsEditor
         {   
             ToolStripMenuItem menu = new ToolStripMenuItem("Tool");
             foreach (ISchetsTool tool in tools)
-            {   ToolStripItem item = new ToolStripMenuItem();
+            {   ToolStripItem item = new ToolStripMenuItem();   
                 item.Tag = tool;
                 item.Text = tool.ToString();
                 item.Image = (Image)resourcemanager.GetObject(tool.ToString());
